@@ -1,0 +1,11 @@
+{
+  "name": "workout",
+  "version": "1.0.0",
+  "description": "workout webapp with flask",
+  "main": "index.py",
+  "scripts": {
+    "start": "FLASK_APP=index.py FLASK_ENV=development flask run"
+  },
+  "author": "Steve Allaben, Ryan Scheuer",
+  "license": "ISC"
+}
